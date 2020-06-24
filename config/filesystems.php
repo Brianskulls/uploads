@@ -65,6 +65,16 @@ return [
             'endpoint' => env('AWS_ENDPOINT'),
         ],
 
+        's3_emaildatabase' => [
+            'driver' => 's3',
+            'key' => env('AWS_ACCESS_KEY_ID'),
+            'secret' => env('AWS_SECRET_ACCESS_KEY'),
+            'region' => env('AWS_REGION_EMAILKEYPLAYER'),
+            'bucket' => env('AWS_BUCKET_EMAILKEYPLAYER'),
+            'url' => env('AWS_URL_EMAILKEYPLAYER'),
+            'endpoint' => env('AWS_ENDPOINT'),
+        ],
+
     ],
 
     /*

@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5977b33c-34cc-416c-9e23-c17fbb8bee57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/DocumentCenter/DocumentCenterUploadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/DocumentCenter/DocumentCenterUploadController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/DeleteOnBoardingController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/GetOnBoardingController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UploadOnBoardingController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Yourwoo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_06_22_125158_create_yourwoo_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uploads.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uploads.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Emaildatabase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmaildatabaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/KeyplayerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Keyplayerlist.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_05_12_111322_create_emaildatabase_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_05_12_111401_create_keyplayerlist_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../woo-laravel/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/../woo-laravel/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/OnBoarding/DeleteOnBoardingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/OnBoarding/DeleteOnBoardingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/OnBoarding/GetOnBoardingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/OnBoarding/GetOnBoardingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/OnBoarding/UploadOnBoardingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/OnBoarding/UploadOnBoardingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../woo-laravel/app/Models/Emaildatabase.php" beforeDir="false" afterPath="$PROJECT_DIR$/../woo-laravel/app/Models/Filedatabase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../woo-laravel/app/Models/Keyplayerlist.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../woo-laravel/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../woo-laravel/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +39,11 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
-      <executable />
+      <executable path="composer" />
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../woo-laravel" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupnpm">
@@ -124,16 +151,20 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1bGFcrQFFE34kzOPs4y01UETBFU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../woo-laravel/app/Models" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -142,6 +173,17 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../woo-laravel/app/Models" />
+      <recent name="$PROJECT_DIR$/../woo-laravel/app/Http" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../woo-laravel/app/Models" />
+      <recent name="$PROJECT_DIR$/app/Http" />
+      <recent name="$PROJECT_DIR$/../woo-laravel/app/Http/Controllers/OnBoarding" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -169,18 +211,37 @@
       <workItem from="1590663922853" duration="5452000" />
       <workItem from="1591107157952" duration="2222000" />
       <workItem from="1591168800675" duration="873000" />
-      <workItem from="1591265863400" duration="531000" />
+      <workItem from="1591265863400" duration="3414000" />
+      <workItem from="1591618163449" duration="3792000" />
+      <workItem from="1591686004948" duration="1446000" />
+      <workItem from="1591794217409" duration="3000" />
+      <workItem from="1591866285420" duration="171000" />
+      <workItem from="1591868848702" duration="4340000" />
+      <workItem from="1591887708949" duration="1459000" />
+      <workItem from="1592485277228" duration="844000" />
+      <workItem from="1592813437948" duration="17372000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1590503303015">
+    <state x="266" y="41" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592912458469">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590503303015" />
+    <state x="266" y="41" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1592912458469" />
+    <state x="458" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1592998422251">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1592998422251" />
+    <state x="503" y="370" key="ComposerInitDialogKey" timestamp="1592839367951">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="370" key="ComposerInitDialogKey/0.0.1440.900@0.0.1440.900" timestamp="1592839367951" />
     <state width="1440" height="269" key="GridCell.Tab.0.bottom" timestamp="1588250665922">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -197,6 +258,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1440" height="269" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588250665921" />
+    <state x="393" y="270" key="NewPhpClassDialog" timestamp="1591876389556">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="393" y="270" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1591876389556" />
+    <state x="546" y="380" key="NewPhpFileDialog" timestamp="1592830862628">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="546" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1592830862628" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1591266538991">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -209,10 +278,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1590664507084" />
-    <state x="385" y="178" width="670" height="694" key="search.everywhere.popup" timestamp="1590664505318">
+    <state x="385" y="178" width="670" height="694" key="search.everywhere.popup" timestamp="1592838207190">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="178" width="670" height="694" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590664505318" />
+    <state x="385" y="178" width="670" height="694" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592838207190" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1589271497826" />
   </component>
 </project>
